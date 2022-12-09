@@ -1,0 +1,36 @@
+{
+  "name": "Ranjitha Kumar",
+  "address": "Illinois",
+  "bio": "I'm an Associate Professor in the Department of Computer Science",
+  "mainSkill": "Dedicated Teacher",
+  "img": "/img/slider/avatar.png",
+  "skills": [
+    {
+      "name": "illustrator",
+      "icon": "/img/svgs/3.svg",
+      "color": "rgb(247, 80, 35)",
+      "value": 85
+    },
+    {
+      "name": "photoshop ",
+      "icon": "/img/svgs/2.svg",
+      "color": "rgb(28, 190, 89)",
+      "value": 95
+    },
+    {
+      "name": "figma ",
+      "icon": "/img/svgs/1.svg",
+      "color": "rgb(128, 103, 240)",
+      "value": 75
+    }
+  ],
+  "social": [
+    { "name": "twitter", "icon": "icon-twitter-1", "url": "#" },
+    { "name": "instagram", "icon": "icon-instagram-1", "url": "#" }
+  ],
+  "contact": {
+    "address": "20, Somewhere in world",
+    "email": "hello@dizme.com",
+    "phn": "+123 456 7890"
+  }
+}

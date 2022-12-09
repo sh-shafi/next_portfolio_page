@@ -1,0 +1,170 @@
+[
+  {
+    "title": "Opico: A Study of Emoji-first Communication in a Mobile Social App",
+    "date": { "date": "23", "month": "Dec" },
+    "writers": "Sujay Khandekar, Joseph Higgs, Yuanzhe Bian, Chae Won Ryu, Jerry O. Talton, and Ranjitha Kumar",
+    "meta": "Companion Proceedings of WWW '19",
+    "achievement": "",
+    "link": "http://www.ranjithakumar.net/resources/opico.pdf"
+  },
+  {
+    "title": "How do People Sort by Ratings?",
+    "date": { "date": "23", "month": "Dec" },
+    "writers": "Jerry O. Talton, Krishna Dusad, Konstantinos Koiliaris, and Ranjitha Kumar",
+    "meta": "Proceedings of CHI '19",
+    "achievement": "",
+    "link": "http://www.ranjithakumar.net/resources/sort_by_ratings.pdf"
+  },
+  {
+    "title": "Learning Design Semantics for Mobile Apps",
+    "date": { "date": "23", "month": "Dec" },
+    "writers": "Thomas F. Liu, Mark Craft, Jason Situ, Ersin Yumer, Radomir Mech, and Ranjitha Kumar",
+    "meta": "Proceedings of UIST '18 ",
+    "achievement": "",
+    "link": "http://www.ranjithakumar.net/resources/mobile-semantics.pdf"
+  },
+  {
+    "title": "Learning Type-Aware Embeddings for Fashion Compatibility",
+    "date": { "date": "23", "month": "Dec" },
+    "writers": "Mariya I. Vasileva, Bryan A. Plummer, Krishna Dusad, Shreya Rajpal, Ranjitha Kumar, and David Forsyth",
+    "meta": "Proceedings of ECCV '18",
+    "achievement": "",
+    "link": "https://arxiv.org/pdf/1803.09196.pdf"
+  },
+  {
+    "title": "Designing the Future of Personal Fashion",
+    "date": { "date": "23", "month": "Dec" },
+    "writers": "Kristen Vaccaro, Tanvi Agarwalla, Sunaya Shivakumar, and Ranjitha Kumar",
+    "meta": "Proceedings of CHI '18",
+    "achievement": "",
+    "link": "http://www.ranjithakumar.net/resources/personal_fashion.pdf"
+  },
+  {
+    "title": "ZIPT: Zero-Integration Performance Testing of Mobile App Designs",
+    "date": { "date": "23", "month": "Dec" },
+    "writers": "Biplab Deka, Zifeng Huang, Chad Franzen, Jeffrey Nichols, Yang Li, and Ranjitha Kumar",
+    "meta": "Proceedings of UIST '17",
+    "achievement": "",
+    "link": "http://www.ranjithakumar.net/resources/zipt.pdf"
+  },
+  {
+    "title": "Rico: A Mobile App Dataset for Building Data-Driven Design Applications",
+    "date": { "date": "23", "month": "Dec" },
+    "writers": "Biplab Deka, Zifeng Huang, Chad Franzen, Joshua Hibschman, Daniel Afergan, Yang Li, Jeffrey Nichols, and Ranjitha Kumar",
+    "meta": "Proceedings of UIST '17",
+    "achievement": "",
+    "link": "http://www.ranjithakumar.net/resources/rico.pdf"
+  },
+  {
+    "title": "Identifying Fashion Accounts in Social Networks",
+    "date": { "date": "23", "month": "Dec" },
+    "writers": "Doris Jung-Lin Lee, Jinda Han, Dana Chambourova, and Ranjitha Kumar",
+    "meta": "KDD Workshop on ML Meets Fashion '17",
+    "achievement": "",
+    "link": "http://www.ranjithakumar.net/resources/kumar-aaai17-fashion.pdf"
+  },
+  {
+    "title": "An Experimentation Engine for Data-Driven Fashion Systems",
+    "date": { "date": "23", "month": "Dec" },
+    "writers": "Ranjitha Kumar and Kristen Vaccaro",
+    "meta": "Proceedings of AAAI Symposium on UX of ML '17 ",
+    "achievement": "",
+    "link": "http://www.ranjithakumar.net/resources/kumar-aaai17-fashion.pdf"
+  },
+  {
+    "title": "ERICA: Interaction Mining For Mobile Apps",
+    "date": { "date": "23", "month": "Dec" },
+    "writers": "Biplab Deka, Zifeng Huang, and Ranjitha Kumar",
+    "meta": "Proceedings of UIST '16",
+    "achievement": "",
+    "link": "http://www.ranjithakumar.net/resources/deka-uist2016-erica.pdf"
+  },
+  {
+    "title": "The Elements of Fashion Style",
+    "date": { "date": "23", "month": "Dec" },
+    "writers": "Kristen Vaccaro, Sunaya Shivakumar, Ziqiao Ding, Karrie Karahalios, and Ranjitha Kumar",
+    "meta": "Proceedings of UIST '16",
+    "achievement": "",
+    "link": "http://www.ranjithakumar.net/resources/vaccaro-uist2016-fashion.pdf"
+  },
+  {
+    "title": "Learning Interpretable Musical Compositional Rules and Traces",
+    "date": { "date": "23", "month": "Dec" },
+    "writers": "Haizi Yu, Lav R. Varshney, Guy E. Garnett, and Ranjitha Kumar",
+    "meta": "Proceedings of ICML WHI '16",
+    "achievement": "",
+    "link": "http://www.ranjithakumar.net/resources/mus-rover-whi-fin.pdf"
+  },
+  {
+    "title": "Accounting for Taste: Ranking Curators and Content in Social Networks",
+    "date": { "date": "23", "month": "Dec" },
+    "writers": "Haizi Yu, Biplab Deka, Jerry O. Talton, and Ranjitha Kumar",
+    "meta": "Proceedings of CHI '16",
+    "achievement": "",
+    "link": "http://www.ranjithakumar.net/resources/curank.pdf"
+  },
+  {
+    "title": "What Makes a Brand Look Expensive?",
+    "date": { "date": "23", "month": "Dec" },
+    "writers": "Jingxian Zhang, Neel Kothari, Asad Butt, and Ranjitha Kumar",
+    "meta": "Extended Abstracts of CHI '16",
+    "achievement": "",
+    "link": "http://www.ranjithakumar.net/resources/wmble_chi16.pdf"
+  },
+  {
+    "title": "Webzeitgeist: Design Mining the Web",
+    "date": { "date": "23", "month": "Dec" },
+    "writers": "Ranjitha Kumar, Arvind Satyanarayan, Cesar Torres, Maxine Lim, Salman Ahmad, Scott R. Klemmer, and Jerry O. Talton",
+    "meta": "Stanford University CSTR 2012-03",
+    "achievement": "BEST PAPER AWARD",
+    "link": "http://www.ranjithakumar.net/resources/webzeitgeist.pdf"
+  },
+  {
+    "title": "Learning Structural Semantics for the Web",
+    "date": { "date": "23", "month": "Dec" },
+    "writers": "Maxine Lim, Ranjitha Kumar, Arvind Satyanarayan, Cesar Torres, Jerry O. Talton, and Scott R. Klemmer",
+    "meta": "Proceedings of UIST '12",
+    "achievement": "",
+    "link": "http://hci.stanford.edu/cstr/reports/2012-03.pdf"
+  },
+  {
+    "title": "Learning Design Patterns with Bayesian Grammar Induction",
+    "date": { "date": "23", "month": "Dec" },
+    "writers": "Jerry O. Talton, Lingfeng Yang, Ranjitha Kumar, Maxine Lim, Noah D. Goodman, and Radomír Měch",
+    "meta": "Proceedings of ICML '12",
+    "achievement": "BEST PAPER NOMINEE",
+    "link": "http://jerrytalton.net/research/tyklg-ldpbg-12/paper.pdf"
+  },
+  {
+    "title": "Data-Driven Web Design",
+    "date": { "date": "23", "month": "Dec" },
+    "writers": "Ranjitha Kumar, Jerry O. Talton, Salman Ahmad, and Scott R. Klemmer",
+    "meta": "Proceedings of ICML '12",
+    "achievement": "INVITED APPLICATIONS PAPER",
+    "link": "http://hci.stanford.edu/publications/2012/bricolageICML12.pdf"
+  },
+  {
+    "title": "Flexible Tree Matching",
+    "date": { "date": "23", "month": "Dec" },
+    "writers": "Ranjitha Kumar, Jerry O. Talton, Salman Ahmad, Tim Roughgarden, and Scott R. Klemmer",
+    "meta": "Proceedings of IJCAI '11",
+    "achievement": "INVITED PAPER",
+    "link": "http://hci.stanford.edu/publications/2011/Bricolage/FTM-IJCAI2011.pdf"
+  },
+  {
+    "title": "Bricolage: Example-Based Retargeting for Web Design",
+    "date": { "date": "23", "month": "Dec" },
+    "writers": "Ranjitha Kumar, Jerry O. Talton, Salman Ahmad, and Scott R. Klemmer",
+    "meta": "Proceedings of IJCAI '11",
+    "achievement": "BEST PAPER AWARD",
+    "link": "http://hci.stanford.edu/publications/2011/Bricolage/Bricolage-CHI2011.pdf"
+  },
+  {
+    "title": "Designing with Interactive Example Galleries",
+    "date": { "date": "23", "month": "Dec" },
+    "writers": "Brian Lee, Savil Srivastava, Ranjitha Kumar, Ronen Brafman, and Scott R Klemmer",
+    "meta": "Proceedings of CHI '10",
+    "achievement": "",
+    "link": "http://hci.stanford.edu/publications/2010/examples/lee-chi2010-examples.pdf"
+  }
+]
