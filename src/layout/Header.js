@@ -29,6 +29,9 @@ const Header = ({ logo }) => {
                 <a href="#news">News</a>
               </li>
               <li>
+                <a href="#publications">Publications</a>
+              </li>
+              <li>
                 <a href="#education">Education</a>
               </li>
               <li className="download_cv">
