@@ -4,6 +4,7 @@ import { aTagClick } from "../utilits";
 
 const Publications = () => {
   const [data, setData] = useState([]);
+  const [number, setNumber] = useState(6);
 
   useEffect(() => {
     async function fetchData(url) {
@@ -14,6 +15,11 @@ const Publications = () => {
     fetchData("/static/publications.json");
     aTagClick();
   }, []);
+
+  const handleClick = () => {
+    if (number === 6) setNumber(data.length);
+    else setNumber(6);
+  };
 
   return (
     <div className="dizme_tm_section" id="publications">
@@ -26,7 +32,7 @@ const Publications = () => {
           <div className="news_list">
             <ul>
               {data &&
-                data.map((blog, i) => (
+                data.slice(0, number).map((blog, i) => (
                   <li className="wow fadeInUp" data-wow-duration="1s" key={i}>
                     <div className="list_inner">
                       <div className="image">
@@ -72,6 +78,19 @@ const Publications = () => {
                   </li>
                 ))}
             </ul>
+            <div
+              onClick={handleClick}
+              className="dizme_tm_button"
+              style={{ float: "right" }}
+            >
+              <a
+                className="anchor"
+                href="#publications"
+                style={{ marginTop: "30px" }}
+              >
+                <span>{number === 6 ? "Show All!" : "Show Less!"}</span>
+              </a>
+            </div>
           </div>
         </div>
 
