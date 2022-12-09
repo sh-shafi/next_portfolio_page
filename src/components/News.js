@@ -2,8 +2,10 @@ import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useState } from "react";
 
-const NewsList = ({ dark }) => {
+const News = ({ dark }) => {
   const [data, setData] = useState([]);
+  const [number, setNumber] = useState(4);
+
   useEffect(() => {
     async function fetchData(url) {
       const res = await fetch(`${url}`);
@@ -23,6 +25,11 @@ const NewsList = ({ dark }) => {
     }, 1000);
   }, []);
 
+  const handleClick = () => {
+    if (number === 4) setNumber(data.length);
+    else setNumber(4);
+  };
+
   return (
     <div className="dizme_tm_section" id="news">
       <div className="dizme_tm_services" style={{ paddingTop: "0" }}>
@@ -39,7 +46,7 @@ const NewsList = ({ dark }) => {
           <div className="service_list">
             <ul>
               {data &&
-                data.map(
+                data.slice(0, number).map(
                   (data, i) =>
                     data && (
                       <li
@@ -71,6 +78,15 @@ const NewsList = ({ dark }) => {
                     )
                 )}
             </ul>
+            <div
+              onClick={handleClick}
+              className="dizme_tm_button"
+              style={{ float: "right" }}
+            >
+              <a className="anchor" href="#news" style={{ marginTop: "30px" }}>
+                <span>{number === 4 ? "Show All!" : "Show Less!"}</span>
+              </a>
+            </div>
           </div>
         </div>
         <div className="brush_1 wow fadeInLeft" data-wow-duration="1s">
@@ -83,4 +99,4 @@ const NewsList = ({ dark }) => {
     </div>
   );
 };
-export default NewsList;
+export default News;
