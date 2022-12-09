@@ -5,6 +5,7 @@ import Newsletter from "../src/components/Newsletter";
 import Education from "../src/components/Education";
 import Layout from "../src/layout/Layout";
 import About from "../src/components/About";
+import Publications from "../src/components/Publications";
 import News from "../src/components/News";
 
 const Index = () => {
@@ -16,6 +17,7 @@ const Index = () => {
       <Home />
       <About />
       <News />
+      <Publications />
       <Newsletter />
       <Education />
       <Contact />
