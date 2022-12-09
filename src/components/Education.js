@@ -7,7 +7,7 @@ const Education = ({ dark }) => {
       id="education"
       style={{ marginTop: "50px" }}
     >
-      <div className="dizme_tm_services" style={{ paddingTop: "0" }}>
+      <div className="dizme_tm_services">
         <div className="container">
           <div className="dizme_tm_main_title" data-align="center">
             <span>Education</span>

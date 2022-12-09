@@ -32,7 +32,7 @@ const News = ({ dark }) => {
 
   return (
     <div className="dizme_tm_section" id="news">
-      <div className="dizme_tm_services" style={{ paddingTop: "0" }}>
+      <div className="dizme_tm_services">
         <div className="container">
           <div className="dizme_tm_main_title" data-align="center">
             <span>Some News</span>
@@ -55,7 +55,6 @@ const News = ({ dark }) => {
                         }`}
                         data-wow-duration="1s"
                         key={i}
-                        onClick={() => onClick(i)}
                       >
                         <Link
                           href={data.link}
@@ -78,11 +77,7 @@ const News = ({ dark }) => {
                     )
                 )}
             </ul>
-            <div
-              onClick={handleClick}
-              className="dizme_tm_button"
-              style={{ float: "right" }}
-            >
+            <div onClick={handleClick} className="dizme_tm_button">
               <a className="anchor" href="#news" style={{ marginTop: "30px" }}>
                 <span>{number === 4 ? "Show All!" : "Show Less!"}</span>
               </a>

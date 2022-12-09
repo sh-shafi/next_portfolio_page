@@ -13,7 +13,7 @@ const Index = () => {
   return (
     <Layout>
       <Head>
-        <title>Dizme | Home</title>
+        <title>Ranjitha Kumar | Portfolio</title>
       </Head>
       <Home />
       <About />

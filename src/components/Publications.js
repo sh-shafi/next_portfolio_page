@@ -23,7 +23,7 @@ const Publications = () => {
 
   return (
     <div className="dizme_tm_section" id="publications">
-      <div className="dizme_tm_news" style={{ paddingTop: "0" }}>
+      <div className="dizme_tm_news">
         <div className="container">
           <div className="dizme_tm_main_title" data-align="center">
             <span>My publications</span>
@@ -78,11 +78,7 @@ const Publications = () => {
                   </li>
                 ))}
             </ul>
-            <div
-              onClick={handleClick}
-              className="dizme_tm_button"
-              style={{ float: "right" }}
-            >
+            <div onClick={handleClick} className="dizme_tm_button">
               <a
                 className="anchor"
                 href="#publications"

@@ -13,7 +13,7 @@ const Contact = () => {
 
   return (
     <div className="dizme_tm_section" id="contact">
-      <div className="dizme_tm_contact" style={{ paddingTop: "0" }}>
+      <div className="dizme_tm_contact">
         <div className="container">
           <div className="dizme_tm_main_title" data-align="center">
             <span>Contact Me</span>
