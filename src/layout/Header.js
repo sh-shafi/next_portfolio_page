@@ -22,21 +22,6 @@ const Header = ({ logo }) => {
               <li className="current">
                 <a href="#home">Home</a>
               </li>
-              <li>
-                <a href="#about">About</a>
-              </li>
-              <li>
-                <a href="#news">News</a>
-              </li>
-              <li>
-                <a href="#publications">Publications</a>
-              </li>
-              <li>
-                <a href="#education">Education</a>
-              </li>
-              <li>
-                <a href="#contact">Contact</a>
-              </li>
               <li className="download_cv">
                 <a href="docs/cv.pdf" download="">
                   <span>Download CV</span>
