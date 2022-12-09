@@ -7,6 +7,7 @@ import Layout from "../src/layout/Layout";
 import About from "../src/components/About";
 import Publications from "../src/components/Publications";
 import News from "../src/components/News";
+import Projects from "../src/components/Projects";
 
 const Index = () => {
   return (
@@ -16,6 +17,7 @@ const Index = () => {
       </Head>
       <Home />
       <About />
+      <Projects />
       <News />
       <Publications />
       <Newsletter />
