@@ -34,6 +34,9 @@ const Header = ({ logo }) => {
               <li>
                 <a href="#education">Education</a>
               </li>
+	      <li>
+                <a href="#contact">Contact</a>
+              </li>
               <li className="download_cv">
                 <a href="docs/cv.pdf" download="">
                   <span>Download CV</span>
