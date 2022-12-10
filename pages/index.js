@@ -8,6 +8,7 @@ import About from "../src/components/About";
 import Publications from "../src/components/Publications";
 import News from "../src/components/News";
 import Projects from "../src/components/Projects";
+import Employment from "../src/components/Employment"
 
 const Index = () => {
   return (
@@ -22,6 +23,7 @@ const Index = () => {
       <Publications />
       <Newsletter />
       <Education />
+      <Employment />
       <Contact />
     </Layout>
   );

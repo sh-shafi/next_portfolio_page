@@ -41,9 +41,13 @@ Recreating portfolio pages of [Ranjitha Kumar](http://ranjithakumar.net/) using 
 **Name:** Md. Abdur Rohim Fahim <br />
 **Student Id:** 213-15-4355 <br />
 
+### * Employment Section
+
+**Name:** Md. Mahamud Jaman Mihin <br />
+**Student Id:** 213-15-4339 <br />
+
 ### * Additional Testing and Bug Fixes
 
 **Name:** Maruf soikot <br />
 **Student Id:** 213-15-4323 <br />
-**Name:** Md. Mahamud Jaman Mihin <br />
-**Student Id:** 213-15-4339 <br />
+
