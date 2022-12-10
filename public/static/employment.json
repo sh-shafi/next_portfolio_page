@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Chief Research Scientist",
+    "place": " UserTesting (San Francisco, CA)",
+    "image": "/img/jobs/researcher.png",
+    "time": "2019 - Present"
+  },
+  {
+    "title": "Associate Professor",
+    "place": "University of Illinois at Urbana-Champaign",
+    "image": "/img/jobs/teacher.png",
+    "time": "2020 - Present"
+  },
+  {
+    "title": "Assistant Professor",
+    "place": "University of Illinois at Urbana-Champaign",
+    "image": "/img/jobs/teacher.png",
+    "time": "2014 - 2020"
+  },
+  {
+    "title": "Founder & Chief Scientist",
+    "place": "Apropose, Inc. (Mountain View, CA)",
+    "image": "/img/jobs/researcher.png",
+    "time": " 2013 - 2016"
+  },
+  {
+    "title": "Graduate Research Assistant",
+    "place": "Stanford University (Stanford, CA)",
+    "image": "/img/jobs/researcher.png",
+    "time": "2007 - 2013"
+  },
+  {
+    "title": "Creative Technologies Lab Intern",
+    "place": "Adobe Systems Inc. (San Francisco, CA)",
+    "image": "/img/jobs/researcher.png",
+    "time": "Summer 2009"
+  }
+]
