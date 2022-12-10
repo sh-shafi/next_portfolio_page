@@ -13,7 +13,7 @@ const Contact = () => {
 
   return (
     <div className="dizme_tm_section" id="contact">
-      <div className="dizme_tm_contact">
+      <div className="dizme_tm_contact" style={{ marginBottom: "0" }}>
         <div className="container">
           <div className="dizme_tm_main_title" data-align="center">
             <span>Contact Me</span>
@@ -127,21 +127,6 @@ const Contact = () => {
                 layout="fill"
               />
             </div>
-          </div>
-          <div className="dizme_tm_map wow fadeInUp" data-wow-duration="1s">
-            <div className="mapouter">
-              <div className="gmap_canvas">
-                <iframe
-                  height={375}
-                  style={{ width: "100%" }}
-                  id="gmap_canvas"
-                  src="https://maps.google.com/maps?q=2880%20Broadway,%20New%20York&t=&z=13&ie=UTF8&iwloc=&output=embed"
-                />
-                <a href="https://www.embedgooglemap.net/blog/divi-discount-code-elegant-themes-coupon" />
-                <br />
-              </div>
-            </div>
-            {/* Get your API here https://www.embedgooglemap.net */}
           </div>
         </div>
         <div className="brush_1 wow fadeInLeft" data-wow-duration="1s">

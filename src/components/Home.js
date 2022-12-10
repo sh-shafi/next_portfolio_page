@@ -66,6 +66,7 @@ const Home = ({ dark }) => {
                   alt="image"
                   width={500}
                   height={800}
+                  style={{ borderRadius: "50px" }}
                 />
                 {data &&
                   data.skills &&
@@ -74,7 +75,7 @@ const Home = ({ dark }) => {
                       skill.icon && (
                         <span
                           key={i}
-                          className={`skills ${skill.name} anim_moveBottom`}
+                          className={`skills ${skill.name} icons anim_moveBottom`}
                         >
                           <div className="skill_icons">
                             <Image src={skill.icon} layout="fill" alt="null" />

@@ -4,33 +4,33 @@
   "bio": "I'm an Associate Professor in the Department of Computer Science",
   "mainSkill": "Dedicated Teacher",
   "img": "/img/slider/avatar.png",
+  "social": [
+    { "name": "twitter", "icon": "icon-twitter-1", "url": "#" },
+    { "name": "instagram", "icon": "icon-instagram-1", "url": "#" }
+  ],
   "skills": [
     {
-      "name": "illustrator",
+      "name": "icon1",
       "icon": "/img/svgs/3.svg",
       "color": "rgb(247, 80, 35)",
       "value": 85
     },
     {
-      "name": "photoshop ",
+      "name": "icon2",
       "icon": "/img/svgs/2.svg",
-      "color": "rgb(28, 190, 89)",
-      "value": 95
+      "color": "rgb(247, 80, 35)",
+      "value": 85
     },
     {
-      "name": "figma ",
+      "name": "icon3",
       "icon": "/img/svgs/1.svg",
-      "color": "rgb(128, 103, 240)",
-      "value": 75
+      "color": "rgb(247, 80, 35)",
+      "value": 85
     }
   ],
-  "social": [
-    { "name": "twitter", "icon": "icon-twitter-1", "url": "#" },
-    { "name": "instagram", "icon": "icon-instagram-1", "url": "#" }
-  ],
   "contact": {
-    "address": "20, Somewhere in world",
-    "email": "hello@dizme.com",
+    "address": "Champaign, IL, United States",
+    "email": "ranjitha@illinois.edu",
     "phn": "+123 456 7890"
   }
 }
