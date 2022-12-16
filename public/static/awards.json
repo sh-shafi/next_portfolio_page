@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Rose Award for Teaching Excellence",
+    "special": "(UIUC College of Engineering)",
+    "year": "2020"
+  },
+  {
+    "name": "Dean’s Award for Excellence in Research",
+    "special": "(UIUC College of Engineering)",
+    "year": "2019"
+  },
+  {
+    "name": "C.W. Gear Outstanding Junior Faculty Award",
+    "special": "(UIUC Computer Science Department)",
+    "year": "2018"
+  },
+  { "name": "NSF CAREER Award", "special": "", "year": "2018" },
+  { "name": "Amazon Research Award", "special": "", "year": "2017" },
+  { "name": "Google Faculty Research Award", "special": "", "year": "2017" },
+  { "name": "Google Faculty Research Award", "special": "", "year": "2016" },
+  {
+    "name": "List of Teachers Ranked as Excellent by their Students",
+    "special": "(CS 199RK)",
+    "year": "Spring 2015"
+  },
+  {
+    "name": "ACM CHI Best Paper Award",
+    "special": "(Webzeitgeist)",
+    "year": "2013"
+  },
+  {
+    "name": "ACM UIST Best Paper Nomination",
+    "special": "(Grammar Induction)",
+    "year": "2012"
+  },
+  {
+    "name": "Google PhD Fellowship in Design Development",
+    "special": "",
+    "year": "2011 –  2013"
+  },
+  {
+    "name": "ACM CHI Best Paper Award",
+    "special": "(Bricolage)",
+    "year": "2011"
+  },
+  {
+    "name": "NSF Graduate Research Fellowship Competition, Honorable Mention",
+    "special": "",
+    "year": "2007, 2008"
+  },
+  {
+    "name": "Computer Research Association Outstanding Undergraduate Awards, Honorable Mention",
+    "special": "",
+    "year": "2007"
+  },
+  { "name": "National Merit Finalist", "special": "", "year": "2002" }
+]
