@@ -3485,3 +3485,21 @@ input[type="number"] {
     margin-bottom: 120px;
   }
 }
+
+ul.awards {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+ul.awards li {
+  border: rgb(0, 211, 0) 1px solid;
+  margin: 20px;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+ul.awards li div {
+  margin-top: 30px;
+}
