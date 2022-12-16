@@ -3,12 +3,13 @@ import Contact from "../src/components/Contact";
 import Home from "../src/components/Home";
 import Newsletter from "../src/components/Newsletter";
 import Education from "../src/components/Education";
+import Awards from "../src/components/Awards";
 import Layout from "../src/layout/Layout";
 import About from "../src/components/About";
 import Publications from "../src/components/Publications";
 import News from "../src/components/News";
 import Projects from "../src/components/Projects";
-import Employment from "../src/components/Employment"
+import Employment from "../src/components/Employment";
 
 const Index = () => {
   return (
@@ -23,6 +24,7 @@ const Index = () => {
       <Publications />
       <Newsletter />
       <Education />
+      <Awards />
       <Employment />
       <Contact />
     </Layout>
