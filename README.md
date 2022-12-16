@@ -4,50 +4,52 @@ Recreating portfolio pages of [Ranjitha Kumar](http://ranjithakumar.net/) using 
 
 ## Team Members and Contributions:
 
-### * Setup and Homepage
+### \* Setup and Homepage
 
 **Name:** Shafayet Hossain <br />
 **Student Id:** 213-15-4387 <br />
 
-### * About Section
+### \* About Section
 
 **Name:** Zohir Rayhan <br />
 **Student Id:** 213-15-4388 <br />
 
-### * News Section
+### \* News Section
 
 **Name:** Shefat Al Mahmud <br />
 **Student Id:** 213-15-4364 <br />
 
-### * Education Section
+### \* Education Section
 
-**Name:** Musfika Tanim Chowdhury Anisha <br />
-**Student Id:** 213-15-4297 <br />
 **Name:** S.M Ahhnaf Murshed <br />
 **Student Id:** 213-15-4317 <br />
 
-### * Publications Section
+### \* Awards Section
+
+**Name:** Musfika Tanim Chowdhury Anisha <br />
+**Student Id:** 213-15-4297 <br />
+
+### \* Publications Section
 
 **Name:** Md Tahmid Hasan <br />
 **Student Id:** 213-15-4386 <br />
 
-### * Added "Show More" Fuctionality and Addtional Styles
+### \* Added "Show More" Fuctionality and Addtional Styles
 
 **Name:** MD. Jannatul Nayem <br />
 **Student Id:** 213-15-4335 <br />
 
-### * Projects Section
+### \* Projects Section
 
 **Name:** Md. Abdur Rohim Fahim <br />
 **Student Id:** 213-15-4355 <br />
 
-### * Employment Section
+### \* Employment Section
 
 **Name:** Md. Mahamud Jaman Mihin <br />
 **Student Id:** 213-15-4339 <br />
 
-### * Additional Testing and Bug Fixes
+### \* Additional Testing and Bug Fixes
 
 **Name:** Maruf soikot <br />
 **Student Id:** 213-15-4323 <br />
-
