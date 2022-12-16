@@ -27,7 +27,7 @@ const Process = ({ dark }) => {
             </h3>
           </div>
           <div>
-            <ul>
+            <ul className="awards">
               {data &&
                 data.map((data, i) => (
                   <li
@@ -38,11 +38,11 @@ const Process = ({ dark }) => {
                     }}
                   >
                     <div className="name" style={{ marginBottom: "30px" }}>
-                      <p>{data.name}</p>
+                      <p className="award-title">{data.name}</p>
                       {data.special && (
-                        <p style={{ fontStyle: "italic" }}>{data.special}</p>
+                        <p className="award-special" style={{ fontStyle: "italic" }}>{data.special}</p>
                       )}
-                      <p style={{ color: "red" }}>{data.year}</p>
+                      <p className="award-year" style={{ color: "red" }}>{data.year}</p>
                     </div>
                   </li>
                 ))}
