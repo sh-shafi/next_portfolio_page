@@ -845,7 +845,8 @@ h6 {
   height: auto;
   clear: both;
   float: left;
-  padding-top: 112px;
+  padding-top: 150px;
+  padding-bottom: 100px;
   position: relative;
 }
 .dizme_tm_about .wrapper {
