@@ -66,7 +66,6 @@ const Home = ({ dark }) => {
                   alt="image"
                   width={500}
                   height={800}
-                  style={{ borderRadius: "50px" }}
                 />
                 {data &&
                   data.skills &&
